@@ -4,7 +4,11 @@ class script(object):
 
 I am <b>🌈Saviour Coders' Image Editor Bot🌈</b> which Supports various editing modes.
 
-For more <b>Click👉 help</b>"""
+For more <b>Click👉 help button</b>
+
+<b>Support Group</b> :- 🐠@ubuntu_coders🐠
+<b>Support Channel</b> :- 🐬@UC_bot_channel🐬
+<b>My Master</b> :- ⛵️@saviour_coder⛵️"""
     HELP_MSG = """Hi, Follow these Steps..
 
 <code>🌀 Send me any Image to Edit..</code>
