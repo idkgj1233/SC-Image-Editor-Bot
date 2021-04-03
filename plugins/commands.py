@@ -70,7 +70,7 @@ async def about(client, message):
                     [
                         InlineKeyboardButton(
                             "SOURCE CODE",
-                            url="https://github.com/TroJanzHEX/Image-Editor",
+                            url="https://github.com/idkgj1233/SC-Image-Editor-Bot",
                         )
                     ],
                 ]
