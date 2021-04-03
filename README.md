@@ -1,59 +1,55 @@
-# Image Editor
-
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/TroJanzHEX/Image-Editor/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Image-Editor?style=social">
-
-  </a>
-  
-  <a href="https://github.com/TroJanzHEX/Image-Editor/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Image-Editor?label=Fork&style=social">
-
-  </a>  
-</p>
-
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Image-Editor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Image-Editor)
+<p align="center"><a href="https://t.me/UC_bot_channel"><img src="https://telegra.ph/file/1e03c485dfc2794b1b8a4.jpg" width="5000"></a></p> 
+<h1 align="center"><b>Saviour_Coder-URL-Uploader-BOT 🇮🇳 </b></h1>
+<h4 align="center">A Powerful, Smart And Simpe URL Uploader Bot.</h4>
 
 
+## Support 🚑
+<a href="https://t.me/UC_bot_channel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/ubuntu_coders"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+
+## I'm just a student who just want to learn coding!!
+
+- 🔭 I love to code.
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to swim and play guitar / drums
 
 
+###  Demo for the Bot
+-Test our Bot by Clicking the button below 
 
-#### An open source image editor which can manipulate an image in many ways!
-#### If you need any more modes in repo or If you find out any bugs, mention in @TroJanzSupport
+<a href="http://t.me/SC_IEditor_Bot"><img src="https://img.shields.io/badge/Click%F0%9F%91%89-SC%20Image%20Editor%20Bot-orange"></a>
+<br>
 
-## Installation
 
-### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Image-Editor)
+A Powerful and Useful Bot Which Can :-
+* ✅Edit Your Pictures
+* ✅Add Text to your picture
+* ✅Easily Used 
 
-### Deploy in your vps
-```sh
-git clone https://github.com/TroJanzHEX/Image-Editor
-cd Image-Editor
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
-python3 bot.py
+# Hosting 🖥
+
+### Deploying To Heroku ⚙
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/idkgj1233/SC-URL-Uploader-Bot)
+
+### NOTE✍🏻
+<HR/>
+
+If you are facing any issue or having problem in deployment then contact us through our group.
+
+
+<a href="https://t.me/ubuntu_coders"><img src="https://img.shields.io/badge/Join%F0%9F%91%89-Ubuntu%20Coders-brightgreen"></a>
+
+<HR/>
+
+### Mandatory Configs 📒
 ```
-
-## Configs
-
-* TG_BOT_TOKEN  - Get bot token from @BotFather
-* APP_ID        - From my.telegram.org (or @UseTGXBot)
-* API_HASH      - From my.telegram.org (or @UseTGXBot)
-* RemoveBG_API  - From [RemoveBG](https://www.remove.bg/b/background-removal-api)
-
-## Credits
-
-[![TroJanz](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
-
-[![TroJanz](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
+[+] Make Sure You Add All These Mandatory Vars. 
+    [-] API_ID:   You can get this value from https://my.telegram.org
+    [-] API_HASH :   You can get this value from https://my.telegram.org
+    [-] AUTH_USERS : allow only pre-defined users to use this bot, You can get this From @userinfobot
+    [-] BOT_TOKEN : You can get thus value from https://t.me/BotFather
+    [-] CHAT_BASE_TOKEN : You can get this value from http://chatbase.com/
+[+] The SC-TRenamer-bot will not work without setting the mandatory vars.
+```
