@@ -4,7 +4,7 @@ class script(object):
 
 I am <b>🌈Saviour Coders' Image Editor Bot🌈</b> which Supports various editing modes.
 
-For more <b>lick👉 /help</b>"""
+For more <b>lick👉 help</b>"""
     HELP_MSG = """Hi, Follow these Steps..
 
 <code>🌀 Send me any Image to Edit..</code>
