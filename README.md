@@ -25,7 +25,7 @@
 
 A Powerful and Useful Bot Which Can :-
 * ✅Edit Your Pictures
-* ✅Add Text to your picture
+* ✅Use Different modes to apply filter on your photo
 * ✅Easily Used 
 
 # Hosting 🖥
