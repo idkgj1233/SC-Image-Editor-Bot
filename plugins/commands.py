@@ -1,4 +1,3 @@
-# By @TroJanzHEX
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram import Client, filters
 from script import script  # pylint:disable=import-error
@@ -19,7 +18,7 @@ async def start(client: Client, message: Message):
                     [
                         InlineKeyboardButton(
                             "SOURCE CODE",
-                            url="https://github.com/TroJanzHEX/Image-Editor",
+                            url="https://github.com/idkgj1233/SC-Image-Editor-Bot",
                         )
                     ],
                 ]
@@ -45,7 +44,7 @@ async def help(client, message):
                     [
                         InlineKeyboardButton(
                             "SOURCE CODE",
-                            url="https://github.com/TroJanzHEX/Image-Editor",
+                            url="https://github.com/idkgj1233/SC-Image-Editor-Bot",
                         )
                     ],
                 ]
